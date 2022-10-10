@@ -8,8 +8,6 @@ The first application of the neural network was a clustering classifer which cre
 
 ![image](https://user-images.githubusercontent.com/108239710/194942939-4d45c220-cfd6-4de9-867d-99a86585b8b1.png)
 
-This image is the data plotted using matplotlib
-
 Results of the NN:
 
 ![image](https://user-images.githubusercontent.com/108239710/194943371-9085f7e0-46c4-42d0-b9c4-fa24cbecbec6.png)
